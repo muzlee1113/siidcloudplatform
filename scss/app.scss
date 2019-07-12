@@ -1,0 +1,14 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/mixins";
+// @import "../node_modules/bootstrap/scss/variables";
+
+
+@import "./customVariables";
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+
